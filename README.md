@@ -18,3 +18,6 @@ On the client side there will be information on steps individuals can take to ma
 
 ## Summary
 This tool is meant to allow multiple organizations to spread the workload of responding to our vulnerable populations in an organized fashion and avoid duplication of work. In addition it aims to maintain health safety standards that may be difficult to train for in a purely volunteer "sign up sheet" type format (for example, people in need post their need and volunteers deliver). 
+
+## Stack 
+Pand-Aid will be using a Python-Django-JavaScript stack. 
