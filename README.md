@@ -5,11 +5,11 @@
 ### Basic functionality
 Pand-Aid is a simple tool that does the following:
 
-1. It aggregates data on the supply needs of immunocompromised and elderly individuals and places them in a secure central database. In the future this may include people who are currently or potentially ill with Covid-19.
+1. It aggregates data on the supply needs of immunocompromised and elderly individuals and places them in a secure central database. In the future this may include the needs of people who are currently or potentially ill with Covid-19 along with data on the symptoms they are presenting with.
 
 2. It allows for NPOs, medical facilities, and government bodies to filter and "checkout" groups of individuals based on things like need-type and location. 
 
-3. Once any indivudual or group of needs are met, it/they is/are checked off, a confirmation email sent to the at risk individual (just in case they were mistakenly removed) and that particular need or set of needs is removed from any and all instances in the database. 
+3. Once any indivudual or group of needs are met, it is checked off, a confirmation email sent to the at risk individual (just in case they were mistakenly removed) and that particular need or set of needs is removed from any and all instances in the database. 
 
 ### Health education and volunteer health safety training steps
 In addition to the above the web-app will provide guidelines supported by our best professionals on how to train volunteers in pick up and delivery of items in order to reduce risk of accidental exposure as much as possible. 
