@@ -41,7 +41,7 @@ After the MVP we will also add in the ability for those not at high risk to crea
 ## Public pages
 
 ### Basic health and safety information - in MVP
-On the client side there will be information on steps individuals can take to maintain their own safety as well as emergency phone numbers and other pertinent information. This information will be made editable by only those with special admin rights given to government and health center Covid-19 health response teams.  
+On the client side there will be information on steps individuals can take to maintain their own safety as well as emergency phone numbers and other pertinent information. This information will be made editable by only those with special admin rights given to government and health center Covid-19 health response teams or those in close contact with them.  
 
 ### Maps and stats - After MVP
 After the MVP has been rolled out we may work on a map visualizing self reported illness. It is possible this map and information may only be made available to medical and government facilities. 
