@@ -46,15 +46,15 @@ The process here has a few goals, and will be updated as our workflow develops f
 
 ## How do I submit an enhancement solution? 
 
-Official enhancement suggestion are tracked as GitHub issues. However you can also approach one of the leads or Brianna for a quick brainstorming session and may have the fastest turn-around. Once you know that you would like to make your idea into an official request you need to determine which repository your enhancement is related to, submit an issue in that repository and provide the following information: 
+Official enhancement suggestions are tracked as GitHub issues. However you can also approach one of the leads or Brianna for a quick brainstorming session and that may have the fastest turn-around. Once you know that you would like to make your idea into an official request you need to determine which repository your enhancement is related to, submit an issue in that repository and provide the following information: 
 
 - **A number in sequence with any other issues**
 - **A clear descriptive title** 
-- **Provide a description of the enhancement with steps if applicable.** 
-- **Explain what behavior you saw** vs **what behavior you expected to see and why.** (if applicable) 
+- **Provide a description of the enhancement (with steps if applicable)** 
+- **Explain what behavior you saw** vs **what behavior you expected to see and why** (if applicable) 
 - **Explain why this enhancement would be useful** 
-- **Tell us what browser you are/were using when you noticed the behavior.** (if applicable)
--**Provide any additional information you believe may be relavent or useful. ** 
+- **Tell us what browser you are/were using when you noticed the behavior** (if applicable)
+- **Provide any additional information you believe may be relavent or useful.** 
 
 # Style Guides 
 
