@@ -60,16 +60,19 @@ Official enhancement suggestions are tracked as GitHub issues. However you can a
 
 When in doubt be extra clear, extra clean, and keep things simple and follow PEP8.
 
-1. Your code should be written as close to plain English as possible. No single or double letter variables like `xd = 1 + 2`.  
+1. Your code should be written as close to plain English as possible. No single or double letter variables like:
+    xd = 1 + 2  
 2. Variables, functions, and classes should all be named with thought towards making it obvious what it is for/what it is related to. If it needs multiple words to do this, use multiple words. 
 3. Comment your code. You do not need to comment every line, but your code should both be self commenting through good naming practices, and have comments explainig what is being achieved in larger blocks.
 4. Lists should be plural. 
 5. Modular is better than 300 lines. If your code is getting chunky, consider how you can break it down into further parts. 
 6. Import one module per import statement
+
     import os
     import sys
 
 Not: 
+
     import os, sys
 
 7. Seperate imports into groups with a line of whitespace: standard library; Django or other framework; third-party; and local imports: 
