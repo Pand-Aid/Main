@@ -19,7 +19,6 @@ Once you are there please introduce yourself on the _#intros_ channel and we wil
 
 Finally, don't forget to read our [code of conduct](). It is vitally important to us that we treat everyone on our team with respect regardless of age, religion, political affiliation, sex, gender, race, orientation, disability, or skill level. 
 
-## Tool Enhancement Suggestions 
 
 ## Pull Request Process 
 
