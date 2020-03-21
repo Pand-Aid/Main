@@ -38,9 +38,11 @@ The process here has a few goals, and will be updated as our workflow develops f
 - Test your code. 
 - When submitting a merge to a branch or master on Pand-Aid please follow the following structure: 
 
-``` git commit -m "One line of descriptive commit message followed by a blank line. 
 
-A paragraph explaining in detail what update has been made and what it's intended use/improvement is."``` 
+>``` git commit -m "One line of descriptive commit message  followed by a blank line. 
+>
+>A paragraph explaining in detail what update has been made and what it's intended use/improvement is."``` 
+
 
 - Once you have requested a merge, update the history.md file with a brief explaination of your work (can be the same as your commit message), issue number if applicable, first 7 numbers of the SHA if applicable, and the date-time (this can be an estimate). 
 - Make sure your code is well commented or it may not be approved.
