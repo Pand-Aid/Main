@@ -67,17 +67,17 @@ When in doubt be extra clear, extra clean, and keep things simple and follow PEP
 4. Lists should be plural. 
 5. Modular is better than 300 lines. If your code is getting chunky, consider how you can break it down into further parts. 
 6. Import one module per import statement
-
+```
     import os
     import sys
-
+```
 Not: 
-
+```
     import os, sys
-
-7. Seperate imports into groups with a line of whitespace: standard library; Django or other framework; third-party; and local imports: 
-
-    import os
+```
+7. Seperate imports into groups with a line of whitespace: standard library; Django or other framework; third-party; and local imports:
+ ```   
+    import os 
     import sys
 
     from django.conf import settings
@@ -85,14 +85,16 @@ Not:
     import pyquery
 
     from thisapp import models, views
-    
+```
 8. Imports on top, `from` imports below:
-    import this
+
+```    import this
     import that
     import another
     from something import chaos
     from music import sound
     from quails import eggs
+```
 
 It's a lot easier to read than:
 
