@@ -17,7 +17,7 @@ We are doing the majority of our organizing via slack at the moment, but we are 
 
 Once you are there please introduce yourself on the _#intros_ channel and we will get you settled into a team. Feel free to let us know your pronouns if you are comfortable with it, but no pressure if you aren't. From there we can add you into our organization teams on github. 
 
-Finally, don't forget to read our [code of conduct](). It is vitally important to us that we treat everyone on our team with respect regardless of age, religion, political affiliation, sex, gender, race, orientation, disability, or skill level. 
+Finally, don't forget to read our [code of conduct](https://github.com/Pand-Aid/Main/blob/master/CODE_OF_CONDUCT.md). It is vitally important to us that we treat everyone on our team with respect regardless of age, religion, political affiliation, sex, gender, race, orientation, disability, or skill level. 
 
 
 ## Pull Request Process 
@@ -46,7 +46,7 @@ The process here has a few goals, and will be updated as our workflow develops f
 
 ## How do I submit an enhancement solution? 
 
-Official enhancement suggestions are tracked as GitHub issues. However you can also approach one of the leads or Brianna for a quick brainstorming session and that may have the fastest turn-around. Once you know that you would like to make your idea into an official request you need to determine which repository your enhancement is related to, submit an issue in that repository and provide the following information: 
+Official enhancement suggestions are tracked as GitHub issues. However you can also approach one of the leads or Brianna for a quick brainstorming session and that may have the fastest turn-around. Once you know that you would like to make your idea into an official request you need to determine which repository your enhancement is related to, submit an issue in that repository, and provide the following information: 
 
 - **A number in sequence with any other issues**
 - **A clear descriptive title** 
