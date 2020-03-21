@@ -15,7 +15,7 @@ Currently we are in need of more Frontend developers.
 
 We are doing the majority of our organizing via slack at the moment, but we are adding other group project tools daily. You can join our slack channel [here](https://join.slack.com/t/pand-aid/shared_invite/zt-crh7rsu8-Qbs3c44qRGHkaPtJH74PEA). 
 
-Once you are there please introduce yourself on the _#intros_ channel and we will get you settled into a team. Feel free to let us know your pronouns if you are comfortable with it, but if it is an area you are still exploring or finding your footing on, we will not pressure you. From there we can add you into our organization teams on github. 
+Once you are there please introduce yourself on the _#intros_ channel and we will get you settled into a team. Feel free to let us know your pronouns if you are comfortable with it, but no pressure if you aren't. From there we can add you into our organization teams on github. 
 
 Finally, don't forget to read our [code of conduct](). It is vitally important to us that we treat everyone on our team with respect regardless of age, religion, political affiliation, sex, gender, race, orientation, disability, or skill level. 
 
