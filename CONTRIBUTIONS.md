@@ -38,11 +38,9 @@ The process here has a few goals, and will be updated as our workflow develops f
 - Test your code. 
 - When submitting a merge to a branch or master on Pand-Aid please follow the following structure: 
 
-`git commit -m "One line of descriptive commit message  followed
-by a blank line. 
-
-A paragraph explaining in detail what update has been made and 
- what it's intended use/improvement is."`
+    git commit -m "One line of descriptive commit message  followed by a blank line. 
+    
+    A paragraph explaining in detail what update has been made and what it's intended use/improvement is."
 
 - Once you have requested a merge, update the history.md file with a brief explaination of your work (can be the same as your commit message), issue number if applicable, first 7 numbers of the SHA if applicable, and the date-time (this can be an estimate). 
 - Make sure your code is well commented or it may not be approved.
@@ -69,37 +67,37 @@ When in doubt be extra clear, extra clean, and keep things simple and follow PEP
 4. Lists should be plural. 
 5. Modular is better than 300 lines. If your code is getting chunky, consider how you can break it down into further parts. 
 6. Import one module per import statement
-    ```import os
-    import sys```
+    import os
+    import sys
 
-    Not: 
-    ```import os, sys
+Not: 
+    import os, sys
 
 7. Seperate imports into groups with a line of whitespace: standard library; Django or other framework; third-party; and local imports: 
-    ```import os
+    import os
     import sys
 
     from django.conf import settings
 
     import pyquery
 
-    from thisapp import models, views``` 
+    from thisapp import models, views
 8. Imports on top, `from` imports below:
-    ```import this
+    import this
     import that
     import another
     from something import chaos
     from music import sound
-    from quails import eggs``` 
+    from quails import eggs
 
-    It's a lot easier to read than:
+It's a lot easier to read than:
 
-    ```from music import sound
+    from music import sound
     import this
     import quails import eggs
     import another
     import that
-    from something import chaos``` 
+    from something import chaos
 
 
 #That's it folks! 
