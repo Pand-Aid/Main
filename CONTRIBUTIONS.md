@@ -76,6 +76,7 @@ Not:
     import os, sys
 
 7. Seperate imports into groups with a line of whitespace: standard library; Django or other framework; third-party; and local imports: 
+
     import os
     import sys
 
@@ -84,6 +85,7 @@ Not:
     import pyquery
 
     from thisapp import models, views
+    
 8. Imports on top, `from` imports below:
     import this
     import that
