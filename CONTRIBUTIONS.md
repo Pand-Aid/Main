@@ -1,4 +1,4 @@
-### Contributing to Pand-Aid 
+# Contributing to Pand-Aid 
 
 ## Welcome 
 We are thrilled to see you here! Thank you for contributing to Pand-Aid. We are an inclusive community that is commited creating a welcoming development environment for all who join us.  
