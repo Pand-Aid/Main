@@ -58,7 +58,7 @@ Official enhancement suggestions are tracked as GitHub issues. However you can a
 
 # Style Guides 
 
-When in doubt be extra clear, extra clean, and keep things simple and follow PEP8.
+When in doubt be extra clear, extra clean, keep things simple, and follow PEP8.
 
 1. Your code should be written as close to plain English as possible. No single or double letter variables like:
     xd = 1 + 2  
