@@ -13,7 +13,7 @@ We suggest that you join a team (Frontend, Backend, API, Database, Security, Rea
 
 Currently we are in need of more Frontend developers.
 
-We are doing the majority of our organizing via slack at the moment, but we are adding other group project tools daily. You can join our slack channel [here](https://join.slack.com/t/pand-aid/shared_invite/zt-crh7rsu8-Qbs3c44qRGHkaPtJH74PEA). 
+We are doing the majority of our organizing via slack at the moment, but we are adding other group project tools daily. You can join our slack channel [here](https://join.slack.com/t/pand-aid/shared_invite/zt-dmqq4ih2-NuK7SCFpCGb3c7ffbEds_g). 
 
 Once you are there please introduce yourself on the _#intros_ channel and we will get you settled into a team. Feel free to let us know your pronouns if you are comfortable with it, but no pressure if you aren't. From there we can add you into our organization teams on github. 
 
